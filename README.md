@@ -53,14 +53,14 @@ This is a personal learning project designed to gain hands-on experience in manu
 - **Defect Logging**: Bugs were documented with steps to reproduce, expected vs. actual results, and screenshots.
 
 ## Artifacts
-- **[Test Summary Report]: Detailed overview of test results and conclusions.
-- **[Test Plan]: Outline of testing approach and scope.
-- **[FRS (Functional Requirement Specification)]: Requirements tested during the project.
-- **[Test Scenarios]: High-level test scenarios for each functionality.
-- **[RTM (Requirement Traceability Matrix)]: Mapping of requirements to test cases and status.
-- **[Test Cases]: Detailed test cases with steps and results.
-- **[Test Cases Execution]: Execution status of all 100 test cases.
-- **[Bug Report]: Detailed defect logs with severity & Priority .
+- **[Test Summary Report]: Detailed overview of test results and conclusions.**
+- **[Test Plan]: Outline of testing approach and scope.**
+- **[FRS (Functional Requirement Specification)]: Requirements tested during the project.**
+- **[Test Scenarios]: High-level test scenarios for each functionality.**
+- **[RTM (Requirement Traceability Matrix)]: Mapping of requirements to test cases and status.**
+- **[Test Cases]: Detailed test cases with steps and results.**
+- **[Test Cases Execution]: Execution status of all 100 test cases.**
+- **[Bug Report]: Detailed defect logs with severity & Priority.**
 
 
 
