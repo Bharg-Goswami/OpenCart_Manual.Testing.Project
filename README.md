@@ -65,9 +65,9 @@ This is a personal learning project designed to gain hands-on experience in manu
 
 
 ## Folder Structure
+- **Defects/**: Bug Report (Excel file With Google Spreadsheets link)
 - **Documentation/**: High-level project documents (PDFs).
 - **Test_Artifacts/**: Testing data and execution records (Excel files With Google Spreadsheets links).
-- **Defects/**: Bug Report (Excel file With Google Spreadsheets link)
 
 ## Learning Outcomes
 - Mastered test case design, execution, and defect logging for e-commerce platforms.
